@@ -1,3 +1,5 @@
+![Dashboard Preview](https://github.com/jahnvi2005sh/EXCEL-COFFEE-SALES-DASHBOARD-/blob/main/Coffee%20sales%20dashboard%20.png)  
+
 # Coffee Sales Dashboard  
 
 ## 1. Project Title / Headline  
@@ -61,9 +63,5 @@ To provide an interactive analytics tool that:
 
 ---  
 
-## 6. Screenshots / Demos  
-Show what the dashboard looks like.  
 
-Example:  
-![Dashboard Preview](https://github.com/jahnvi2005sh/EXCEL-COFFEE-SALES-DASHBOARD-/blob/main/Coffee%20sales%20dashboard%20.png)  
 
